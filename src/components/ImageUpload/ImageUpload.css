@@ -1,0 +1,19 @@
+.auth-inner{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.image-title{
+    margin-right: 3rem;
+}
+
+.image-view{
+    margin-right: 15px;
+}
+
+.input-img{
+    margin-left: 10px;
+}
